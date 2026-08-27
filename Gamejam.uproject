@@ -26,6 +26,10 @@
 		{
 			"Name": "EditorToolset",
 			"Enabled": true
+		},
+		{
+			"Name": "ViewfinderPauseMenu",
+			"Enabled": true
 		}
 	]
 }
