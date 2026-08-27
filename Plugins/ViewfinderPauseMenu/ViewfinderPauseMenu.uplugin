@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Viewfinder Pause Menu",
+	"Description": "Adds an ESC pause menu with restart, quit, mouse sensitivity, and FOV controls.",
+	"Category": "Gameplay",
+	"CreatedBy": "Gamejam Team",
+	"CanContainContent": false,
+	"EnabledByDefault": true,
+	"Modules": [
+		{
+			"Name": "ViewfinderPauseMenu",
+			"Type": "Runtime",
+			"LoadingPhase": "PostEngineInit"
+		}
+	]
+}
